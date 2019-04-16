@@ -1,0 +1,32 @@
+{
+    "algo": "glm",
+    "model_id": "GLM_grid_1_AutoML_20190411_185021_model_1",
+    "coef": {
+        "Intercept": 1.4945481970377725,
+        "Gender.Female": 0.01964746098342915,
+        "Gender.Male": -0.019425466996861502,
+        "Age": -0.0028099343417179123,
+        "Total_Bilirubin": -0.0029869317291045415,
+        "Direct_Bilirubin": -0.018334205475178708,
+        "Alkaline_Phosphotase": -0.00017400001365566403,
+        "Alamine_Aminotransferase": -0.0002503091948180653,
+        "Aspartate_Aminotransferase": -1.0713239917816566e-05,
+        "Total_Protiens": -0.02598172045439737,
+        "Albumin": 0.050098118788178055,
+        "Albumin_and_Globulin_Ratio": 0.05029018659277943
+    },
+    "coef_norm": {
+        "Intercept": 1.2963579613824514,
+        "Gender.Female": 0.01964746098342915,
+        "Gender.Male": -0.019425466996861502,
+        "Age": -0.04549236858954912,
+        "Total_Bilirubin": -0.018547417466491495,
+        "Direct_Bilirubin": -0.05149157239870935,
+        "Alkaline_Phosphotase": -0.04227121343468542,
+        "Alamine_Aminotransferase": -0.04571155427630967,
+        "Aspartate_Aminotransferase": -0.0030952535184338823,
+        "Total_Protiens": -0.028201897024708437,
+        "Albumin": 0.03985399563941534,
+        "Albumin_and_Globulin_Ratio": 0.01601702006947667
+    }
+}
